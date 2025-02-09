@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://github.com/juhyeon0513/juhyeon0513/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyeon0513)](https://github.com/juhyeon0513/github-readme-stats)
 <!--
 **juhyeon0513/juhyeon0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
